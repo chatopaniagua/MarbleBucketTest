@@ -1,13 +1,13 @@
 # MarbleBucketTest
 Test assignment for Developer position at MarbleBucket.
 
-## Configuration
+## 1. Configuration
 
 1. Create a copy of this repository in your local computer.
 2. Open the project using Visual Studio
 3. Build the project (to generate .exe files)
 
-## How to run
+## 2. How to run
 
 ### As command line executable:
 
@@ -22,7 +22,7 @@ Test assignment for Developer position at MarbleBucket.
 4. Use your web service
 
 
-## Testing
+## 3. Testing
 
 ### Using Postman
 
