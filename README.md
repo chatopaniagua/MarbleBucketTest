@@ -9,16 +9,17 @@ Test assignment for Developer position at MarbleBucket.
 
 ## How to run
 
-### - As command line executable:
+### As command line executable:
 
 1. Using your command line, go to the folder where your generated .exe file are located ("bin/debug" or "bin/release") depending on your configuration.
 2. Run the following command: "MarbleBucketAveragingAPI". That will run the executable and start the server.
 
-### - As Windows Service:
+### As Windows Service:
 
 1. Open your command line as an administrator. 
 2. Go to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319'
-2. Run the tool 'installutil' and pass as an argument the location of your .exe file ("bin/debug" or "bin/release") depending on your configuration.
+3. Run the tool 'installutil' and pass as an argument the full path of your .exe file ("C:\..\bin\debug\MarbleBucketAveragingAPI.exe" or "C:\..bin\release\..") depending on your configuration.
+4. Use your web service
 
 
 ## Testing
