@@ -12,7 +12,7 @@ Test assignment for Developer position at MarbleBucket.
 ### As command line executable:
 
 1. Using your command line, go to the folder where your generated .exe file are located ("bin/debug" or "bin/release") depending on your configuration.
-2. Run the following command: "MarbleBucketAveragingAPI". That will run the executable and start the server.
+2. Run the following command: "MarbleBucketAveragingAPI --console" (IMPORTANT --console at the end). That will run the executable and start the servcer.
 
 ### As Windows Service:
 
