@@ -35,3 +35,8 @@ In order to prove that this API works, I've used a software called "Postman" whi
 5. Send.
 6. You should receive a response with status 200 (Ok) and your averaged result (also displayed in the console).
 
+## 4. Assumptions
+
+- The host is using a Windows computer (necessary to run as a service)
+- The host has .NET 4.5 installed
+- The user will only send valid arrays of numbers (Validation is not the focus of this test, I believe)
